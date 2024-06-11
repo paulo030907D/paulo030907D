@@ -1,9 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙💙 
 
-<!--
-**paulo030907D/paulo030907D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Paulo Gabriel
 
-🥇Here are some ideas to get you
-🥈Estou estudando na Alura
-🥉Estou me desenvolvendo na linguagem JavaScript
-🕠Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando [Alura](https://www.alura.com)💻
+- Estou me desenvolvendo na linguagem JavaScript🖱️
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos⚔️
+
+### Você pode entrar em contato comigo📫
+
+ - ssolabiell@gmail.com📧
+   
+   ![](https://tenor.com/pt-BR/view/cat-cats-cat-meme-meme-meme-cat-gif)
+
+ - @ssolabiell📧
